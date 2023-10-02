@@ -5,12 +5,12 @@
 ## Sobre
 
 - Estudante de Ciência da Computação na UFRJ.
-- E-mail: phenriquesaito@gmail.com
+- Cursando 3º período.
 
 ## Repositórios de Destaque
 
-- [Projeto 1](link-para-projeto-1): Breve descrição do projeto.
-- [Projeto 2](link-para-projeto-2): Breve descrição do projeto.
+- [Trabalhos da faculdade](link-para-projeto-1): Breve descrição do projeto.
+- [Projetos pessoais](link-para-projeto-2): Breve descrição do projeto.
 
 ## Contato
 
