@@ -1,6 +1,6 @@
 # Pedro Saito
 
-[![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=social)](https://github.com/seu-usuario)
+[![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=social)](https://github.com/saitoi)
 
 ## Sobre
 
@@ -9,8 +9,8 @@
 
 ## Repositórios de Destaque
 
-- [Trabalhos da faculdade](link-para-projeto-1): Breve descrição do projeto.
-- [Projetos pessoais](link-para-projeto-2): Breve descrição do projeto.
+- [Projetos Acadêmicos](link-para-projeto-1): Breve descrição do projeto.
+- [Projetos Pessoais](link-para-projeto-2): Breve descrição do projeto.
 
 ## Contato
 
