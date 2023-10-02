@@ -9,7 +9,7 @@
 
 ## Repositórios de Destaque
 
-- [Projetos Acadêmicos](link-para-projeto-1): Breve descrição do projeto.
+- [Projetos Acadêmicos](https://github.com/saitoi/Faculdade.git): Breve descrição do projeto.
 - [Projetos Pessoais](link-para-projeto-2): Breve descrição do projeto.
 
 ## Contato
