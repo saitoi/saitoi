@@ -1,3 +1,7 @@
 # Pedro Saito
 
-> [contato] e-mail: phenriquesaito@gmail.com
+[estudos]
+> Ciência da computação - UFRJ
+
+[contato]
+>  e-mail: phenriquesaito@gmail.com
