@@ -1,5 +1,5 @@
-# Sobre mim ..
+# Pedro Saito
 
-> Olá prazer, meu nome é Pedro Saito e esse arquivo foi escrito com GPT.
-
+> [!info] Contato
+> e-mail: phenriquesaito@gmail.com
 
