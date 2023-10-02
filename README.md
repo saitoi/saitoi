@@ -7,10 +7,10 @@
 - Estudante de Ciência da Computação na UFRJ.
 - Cursando 3º período.
 
-## Repositórios de Destaque
+## Repositórios
 
-- [Projetos Acadêmicos](https://github.com/saitoi/Faculdade.git): Breve descrição do projeto.
-- [Projetos Pessoais](https://github.com/saitoi/Pessoal.git): Breve descrição do projeto.
+- [Projetos Acadêmicos](https://github.com/saitoi/Faculdade.git): Trabalhos associados à faculdade.
+- [Projetos Pessoais](https://github.com/saitoi/Pessoal.git): Projetos individuais.
 
 ## Contato
 
