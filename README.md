@@ -1,4 +1,3 @@
 # Pedro Saito
 
-[contato] e-mail
-
+> [contato] e-mail: phenriquesaito@gmail.com
