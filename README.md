@@ -1,6 +1,6 @@
 # Pedro Saito
 
-[![GitHub followers](https://img.shields.io/github/followers/saitoi?style=social)](https://github.com/saitoi)
+[![GitHub followers](https://img.shields.io/github/followers/saitoi?style=social)](https://github.com/saitoi) 😭$\pi$
 
 ## Sobre
 
