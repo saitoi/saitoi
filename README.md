@@ -15,3 +15,4 @@
 ## Contato
 
 - E-mail: phenriquesaito@gmail.com
+- E-mail acadêmico: pedrohhs@dcc.ufrj.br
