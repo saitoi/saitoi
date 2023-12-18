@@ -2,7 +2,7 @@
 
 ★ **Se for copiar algum repositório, dá um follow[✅]  e ativa o sininho[🔔]**
 
-[![GitHub followers](https://img.shields.io/github/followers/saitoi?style=social)](https://github.com/saitoi) (😭)
+[![GitHub followers](https://img.shields.io/github/followers/saitoi?style=social)](https://github.com/saitoi)
 
 ## Sobre
 
@@ -16,5 +16,5 @@
 
 ## Contato
 
-- E-mail: phenriquesaito@gmail.com
+- E-mail pessoal: phenriquesaito@gmail.com
 - E-mail acadêmico: pedrohhs@dcc.ufrj.br
