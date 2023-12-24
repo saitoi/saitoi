@@ -1,7 +1,7 @@
 # Pedro Saito
 
 - Estudante de graduação de Ciência da Computação na UFRJ.
-- Cursando 3º período.
+- Cursando 4º período.
 
 [![GitHub followers](https://img.shields.io/github/followers/saitoi?style=social)](https://github.com/saitoi)
 
