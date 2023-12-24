@@ -1,13 +1,9 @@
 # Pedro Saito
 
-★ **Se for copiar algum repositório, dá um follow[✅]  e ativa o sininho[🔔]**
-
-[![GitHub followers](https://img.shields.io/github/followers/saitoi?style=social)](https://github.com/saitoi)
-
-## Sobre
-
 - Estudante de graduação de Ciência da Computação na UFRJ.
 - Cursando 3º período.
+
+[![GitHub followers](https://img.shields.io/github/followers/saitoi?style=social)](https://github.com/saitoi)
 
 ## Repositórios
 
