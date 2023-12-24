@@ -13,6 +13,8 @@
 
 - [Projetos Acadêmicos](https://github.com/saitoi/Faculdade.git): Trabalhos associados à faculdade.
 - [Projetos Pessoais](https://github.com/saitoi/Pessoal.git): Projetos individuais.
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saitoi)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Contato
 
