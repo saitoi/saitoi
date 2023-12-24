@@ -5,7 +5,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/saitoi?style=social)](https://github.com/saitoi)
 
-## Repositórios
+## Conteúdo
 
 - [Projetos Acadêmicos](https://github.com/saitoi/Faculdade.git): Trabalhos associados à faculdade.
 - [Projetos Pessoais](https://github.com/saitoi/Pessoal.git): Projetos individuais.
