@@ -10,10 +10,11 @@
 - [Projetos Acadêmicos](https://github.com/saitoi/Faculdade.git): Trabalhos associados à faculdade.
 - [Projetos Pessoais](https://github.com/saitoi/Pessoal.git): Projetos individuais.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saitoi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saitoi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contato
 
 - E-mail pessoal: phenriquesaito@gmail.com
 - E-mail acadêmico: pedrohhs@dcc.ufrj.br
+- [Linkedin](https://www.linkedin.com/in/pedro-saito-419a08247/)
