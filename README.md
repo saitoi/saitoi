@@ -6,7 +6,7 @@
 
 ## Sobre
 
-- Estudante de Ciência da Computação na UFRJ.
+- Estudante de graduação de Ciência da Computação na UFRJ.
 - Cursando 3º período.
 
 ## Repositórios
