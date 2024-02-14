@@ -1,8 +1,8 @@
-# Hello there 👋
+### Hello there 👋
 
-**I'm Pedro Saito, a Computer Science undergraduate student at UFRJ by day ☼ and a passionate developer working on projects by night ☾.**
+**A Computer Science undergraduate student at UFRJ by day ☼ and a passionate developer working on projects by night ☾.**
 
-## About Me
+#### About Me
 
 - 🌱 I’m currently learning everything I can about software development, with a keen interest in data science in python and Front-End development.
 - 📚 Currently in my 4th semester of the Computer Science program at UFRJ.
