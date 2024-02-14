@@ -1,20 +1,21 @@
-# Pedro Saito
+# Hello there 👋
 
-- Estudante de graduação de Ciência da Computação na UFRJ.
-- Cursando 4º período.
+I'm Pedro Saito, a Computer Science undergraduate student at UFRJ by day ☼ and a passionate developer working on academic and personal projects by night ☾.
+
+- 📚 Currently in my 4th semester of the Computer Science program at UFRJ.
+- 💻 Exploring the world of coding through [Academic Projects](https://github.com/saitoi/Faculdade.git) and [Personal Projects](https://github.com/saitoi/Pessoal.git).
+
+## About Me
 
 [![GitHub followers](https://img.shields.io/github/followers/saitoi?style=social)](https://github.com/saitoi)
 
-## Conteúdo
+- 🌱 I’m currently learning everything I can about software development, with a keen interest in open-source projects.
+- 🛠️ I use daily: `.py`,  `.html`, `.css`, `.sql`
+- 🌍 I'm mostly active within the GitHub Community, contributing to and collaborating on various projects.
+- 📫 How to reach me: Shoot me an email at phenriquesaito@gmail.com for personal inquiries or pedrohhs@dcc.ufrj.br for academic ones. Connect with me on [Linkedin](https://www.linkedin.com/in/pedro-saito-419a08247/).
 
-- [Projetos Acadêmicos](https://github.com/saitoi/Faculdade.git): Trabalhos associados à faculdade.
-- [Projetos Pessoais](https://github.com/saitoi/Pessoal.git): Projetos individuais.
+## My Landing Page
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saitoi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Contato
-
-- E-mail pessoal: phenriquesaito@gmail.com
-- E-mail acadêmico: pedrohhs@dcc.ufrj.br
-- [Linkedin](https://www.linkedin.com/in/pedro-saito-419a08247/)
+<a href="https://saitos-lair.streamlit.app/">
+  <img src="https://iili.io/JEJS2hQ.png" width="30" alt="Alt text">
+</a>
