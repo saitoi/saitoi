@@ -1,12 +1,11 @@
 ### Hello there 👋
 
-**A Computer Science undergraduate student at UFRJ by day ☼ and a passionate developer working on projects by night ☾.**
+**A Computer Science undergraduate student at UFRJ by day ☼ and a developer by night ☾.**
 
-- 🌱 Exploring different areas in software development, with keen interest in Data science with Python and Full-Stack.
-- 📚 Currently in my 4th semester of the Computer Science program at UFRJ.
-- 🛠️ I use daily: `.py`,  `.html`, `.css`, `.js`, `.sql`
-- 🌍 I'm mostly active within the GitHub Community, contributing to personal and academic projects.
-- 📫 How to reach me:
+- Currently in my 5th semester of the Computer Science program at UFRJ.
+- Exploring different areas in software development, with keen interest in Data science and Backend Development.
+- I use daily: `.py`,  `.html`, `.css`, `.js`, `.sql`
+- How to reach me:
 
 |personal|academic|linkedin|
 |:--:|:--:|:--:|
