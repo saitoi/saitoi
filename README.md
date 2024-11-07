@@ -3,7 +3,7 @@
 **A Computer Science undergrad at UFRJ and a developer.**
 
 - Currently in my 5th semester of the Computer Science program at UFRJ.
-- Exploring different areas in software development, with keen interest in Data science and Backend Development.
+- Exploring different areas in software development, with keen interest in Database Engineering and Backend Development.
 - I use daily: `.py`, `.sql`, `.cpp`
 - How to reach me:
 
