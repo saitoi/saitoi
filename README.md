@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-**A Computer Science undergraduate student at UFRJ by day ☼ and a developer by night ☾.**
+**A Computer Science undergrad at UFRJ and a developer.**
 
 - Currently in my 5th semester of the Computer Science program at UFRJ.
 - Exploring different areas in software development, with keen interest in Data science and Backend Development.
