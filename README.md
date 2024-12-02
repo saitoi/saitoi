@@ -2,7 +2,7 @@
 
 **A Computer Science undergrad at UFRJ and a developer.**
 
-- Database Engineering and Backend Development .
+- Database Engineering and Backend Development @ [LAMDEC](https://github.com/lamdec/).
 - Tools: Python, SQL, C++.
 
 <a href="mailto:pedrohhs@dcc.ufrj.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
